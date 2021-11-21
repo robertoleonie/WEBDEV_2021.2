@@ -1,27 +1,5 @@
-import { useState } from 'react';
-
 function Home() {
-    return {
-        <div>
-            <h4>Home 4</h4>
-            <Contador />
-        </div>
-    }
-}
-
-function Contador() {
-    const [contador,setContador] = useState(1);
-
-    function adicionarContador() {
-        setContador(contador + 1);
-    }
-
-    return {
-        <div>
-            <div>{contador}</div>
-            <button onClick=adicionarContado> Adicionar </button>
-        </div>
-    }
+    return <h1>Home</h1>
 }
 
 export default Home

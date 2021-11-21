@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/robleonie99/WEBDEV_2021.2#readme",
   "dependencies": {
+    "appjs": "^0.0.20",
     "gulp": "^4.0.2",
     "next": "^12.0.4",
     "react": "^17.0.2",
