@@ -1,0 +1,27 @@
+{
+  "name": "WEBDEV_2021.2",
+  "version": "1.0.0",
+  "description": "Repositório da disciplina Tópicos Especiais em Engenharia de Software (Desenvolvimento Web).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robleonie99/WEBDEV_2021.2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robleonie99/WEBDEV_2021.2/issues"
+  },
+  "homepage": "https://github.com/robleonie99/WEBDEV_2021.2#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "next": "^12.0.4",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
